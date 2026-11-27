@@ -1,0 +1,10 @@
+From: GitHub Enterprise <noreply@github.example.com>
+To: 정하늘 <haneul.jung@example.com>
+Date: 2026-11-25 (수) 09:15
+Subject: [oneq/oneq-web] 정산 엑셀 다운로드 마감 구분 컬럼 추가 (PR #219)
+
+@haneul-jung, your review was requested on this pull request.
+
+이서준 (seojun-lee) wants to merge 1 commit into release/R26.11 from feature/settlement-excel-runtype
+
+View it on GitHub: https://github.example.com/oneq/oneq-web/pull/219

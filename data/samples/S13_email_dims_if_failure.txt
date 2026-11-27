@@ -1,0 +1,16 @@
+From: DIMS <dims-noreply@example.com>
+To: 정하늘 <haneul.jung@example.com>
+Date: 2026-11-25 (수) 03:12
+Subject: [DIMS] 인터페이스 실패 알림 - IF-ONEQ-ERP-002
+
+※ 본 메일은 DIMS에서 자동 발송되었습니다.
+
+인터페이스 ID : IF-ONEQ-ERP-002
+실행 ID      : RUN-20261125-030000-0417
+실행 일시    : 2026-11-25 03:00:00 ~ 03:11:48
+처리 결과    : 실패 (성공 1,182건 / 실패 3건)
+오류 메시지  : ORA-00001: unique constraint (ONEQ.PK_TB_SETL_SLIP_RESULT) violated
+재처리 기한  : 2026-11-25 18:00
+
+담당자께서는 확인 후 조치 바랍니다.
+DIMS 콘솔: https://dims.example.local/runs/RUN-20261125-030000-0417

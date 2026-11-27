@@ -1,0 +1,17 @@
+# 과정 공용 ../.venv (Python 3.14) 기준. 이미 설치된 패키지도 제출 확인용으로 명시.
+streamlit
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-aws
+langchain-chroma
+chromadb
+rank-bm25
+kiwipiepy
+boto3
+python-dotenv
+pyyaml
+pydantic
+tiktoken
+langsmith
+pytest

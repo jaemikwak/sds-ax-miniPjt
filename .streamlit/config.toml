@@ -1,0 +1,18 @@
+# 이 PC 밖으로 화면이 열리지 않게 localhost에만 바인딩 (저장소 루트에서 streamlit run src/app.py로 실행)
+[server]
+address = "127.0.0.1"
+port = 8501
+headless = true
+
+[client]
+toolbarMode = "minimal"   # Deploy 버튼·점 3개 메뉴 숨김 (로컬 시연 앱이라 쓸 일 없음)
+
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5f9"
+textColor = "#0f172a"
+
+[browser]
+gatherUsageStats = false

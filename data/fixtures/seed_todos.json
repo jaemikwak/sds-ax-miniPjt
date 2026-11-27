@@ -1,0 +1,11 @@
+{
+  "_comment": "평가용 픽스처. 검색 흐름 문항은 매 실행마다 이 목록을 새 SQLite에 넣은 상태에서 시작합니다. 기준 주간: 2026-11-23(월)~2026-11-29(일).",
+  "todos": [
+    {"id": "T01", "content": "결재 DELEGATE_WAIT 멈춤 원인 확인 후 회신", "requester": "김서연 과장", "deadline": "2026-11-27", "status": "미완료", "is_inquiry": true, "source_id": "seed", "cited_docs": ["G10"]},
+    {"id": "T02", "content": "R26.11-01 반영 후 결재 위임 동작 모니터링", "requester": "김서연 과장", "deadline": "2026-11-30", "status": "미완료", "is_inquiry": false, "source_id": "seed", "cited_docs": ["G14"]},
+    {"id": "T03", "content": "운영 SSL 인증서 교체 작업계획서 등록", "requester": "이도윤 선임", "deadline": "2026-11-26", "status": "완료", "is_inquiry": false, "source_id": "seed", "cited_docs": ["G03"]},
+    {"id": "T04", "content": "R26.11 정기릴리즈 결재 상신", "requester": "한지민 책임", "deadline": "2026-11-25", "status": "미완료", "is_inquiry": false, "source_id": "seed", "cited_docs": ["G12"]},
+    {"id": "T05", "content": "모니터링 대시보드 알람 임계치 점검", "requester": "강준호 선임", "deadline": "2026-12-03", "status": "미완료", "is_inquiry": false, "source_id": "seed", "cited_docs": []},
+    {"id": "T06", "content": "PR #482 내용 검토", "requester": "오태양", "deadline": "", "status": "미완료", "is_inquiry": false, "source_id": "seed", "cited_docs": []}
+  ]
+}
